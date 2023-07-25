@@ -10,7 +10,7 @@
 
 ## Meu nome é Jefferson Santos do Nascimento ! 
 
-Tenho 23 anos, moro em Eusébio/CE e sou totalmente apaixonado pelo mundo da programação ! Atualmente sou iniciante, porém, já tenho bastante conhecimento nesse universo maravilhoso do desenvolvimento e estou sempre disposto a novas tecnologias e conhecimentos. 
+Tenho 23 anos, moro em Eusébio/CE e sou apaixonado pelo mundo da programação ! Atualmente sou iniciante, porém, já tenho bastante conhecimento nesse universo incrível do desenvolvimento e estou sempre disposto a conhecer novas tecnologias e conhecimentos. 
 
 Eae, bora codar ?
 
