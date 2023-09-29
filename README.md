@@ -33,10 +33,6 @@ My name is Jefferson Santos do Nascimento, I'm 24 years old and I live in Euséb
 </p>
 
 <p align="Center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeffersonnasciment0&theme=onedark&row=2&column=3" />
-</p>
-
-<p align="Center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonnasciment0&theme=dark&layout=compact" />
 </p>
 
