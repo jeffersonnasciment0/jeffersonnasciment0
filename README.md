@@ -92,7 +92,7 @@ My name is Jefferson Santos do Nascimento, I'm 24 years old and I live in Euséb
 </p>
 
 ---
-<h4 align="center">Development Tools</h4>
+<h4 align="center">Tools</h4>
 <p align="center"> 
   <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> 
@@ -126,11 +126,6 @@ My name is Jefferson Santos do Nascimento, I'm 24 years old and I live in Euséb
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
 
-</p>
-
----
-<h4 align="center">Documentation</h4>
-<p align="center"> 
   <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="80" height="80"/>
   </a>
