@@ -1,132 +1,73 @@
-<div id="header" align="center">
- <h1>
-  👋 Hello ! Welcome to my Github profile
- </h1>
-          
- <div align="center">
-   <img src="https://user-images.githubusercontent.com/59482366/208565271-b049488b-737c-4a4d-83e6-62abd71fe92c.gif" width="330" height="300"/>
- </div>
- 
- <div id="badges">
-   <a href="https://instagram.com/jeffersonsantos_99_" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:jeffersonaraujo1808@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/jefferson-santos-do-nascimento-b912a8179" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
- <img src="https://komarev.com/ghpvc/?username=jeffersonnasciment0&style=flat-square&color=blue" alt=""/>
+# Jefferson Santos
 
-</div>
+### Software Engineer | C/C++ · Python · Linux · Embedded Systems
 
----
+> Building reliable software for Linux-based and embedded systems.
 
-### Who am i ? 🤔
+I'm a software developer with hands-on experience in software development, Linux environments, troubleshooting, and embedded systems. I've worked on maintaining and evolving production software, investigating complex issues, and developing services that communicate with hardware and other software components.
 
-My name is Jefferson Santos do Nascimento, I'm 27 years old and I live in Eusébio/CE and I'm passionate about the world of programming! I am currently a beginner and work as an assistant engineer for embedded systems, however, I already have a lot of knowledge in this incredible world of development and I am always willing to learn about new technologies and knowledge.
+My interests include low-level programming, system reliability, inter-process communication, automation, and IoT.
 
----
+## `$ whoami` — About Me
 
-<h3 align="center">MY GITHUB STATS</h3>
-<p align="Center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffersonnasciment0&show_icons=true&theme=dark" />
-</p>
+- 💻 Software development with **C/C++ and Python**
+- 🐧 Experience with **Linux-based systems and embedded environments**
+- 🔌 Interest in **IoT, hardware integration, and system communication**
+- 🧵 Studying concurrency, synchronization, and system-level programming
+- 🛠️ Focused on writing maintainable code and understanding how systems behave in real-world environments
 
-<p align="Center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonnasciment0&theme=dark&layout=compact" />
-</p>
+## `$ ls ./featured-projects`
 
----
+### 🚦 Smart Traffic Light
+An adaptive traffic light prototype using an ESP32, with vehicle-flow counting and dynamic green-light timing.
 
+**Tech:** C++ · ESP32 · PlatformIO
 
-<h3 align="center">Technology stack:</h3>
-<h4 align="center">Languagues</h4>
-<p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-</p>
+[View project](#)
 
----
+### 🔌 Linux Inter-Process Communication
+A practical project exploring communication between processes in Linux.
 
-<h4 align="center">Operational Systems</h4>
-<p align="center"> 
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
+**Tech:** C · Linux · Sockets
 
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  </a>
+[View project](#)
 
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" width="40" height="40"/>
-  </a>
-</p>
+### ⚙️ C++ Device Manager
+A C++ project focused on device management and software design fundamentals.
 
+**Tech:** C++ 
 
---- 
+[View project](#)
 
-<h4 align="center">Frameworks</h4>
-<p align="center"> 
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  </a>
+## `$ cat tech-stack.txt`
 
-</p>
+**Languages**
+- C / C++
+- Python
+- SQL
 
---- 
+**Systems & Embedded**
+- Linux
+- Embedded Linux
+- ESP32
+- Inter-process communication
+- Multithreading and synchronization
 
-<h4 align="center">Databases</h4>
-<p align="center"> 
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="psql" width="40" height="40"/> 
-  </a>
+**Tools & Workflow**
+- Git / GitHub
+- Docker
+- Jenkins
+- PlatformIO
 
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  </a>
+## `$ tail -f learning.log`
 
-</p>
+Currently expanding my knowledge of embedded development, software architecture, and engineering tools while building practical projects.
+
+## `$ connect --with-me`
+
+- LinkedIn: [Add LinkedIn URL]
+- Portfolio: [Add portfolio URL]
 
 ---
-<h4 align="center">Tools</h4>
-<p align="center"> 
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> 
-  </a>
-          
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a>
 
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> 
-  </a>
-
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40"/>
-  </a>
-  
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
-  </a>
-
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-
-  <a href="https://github.com/jeffersonnasciment0" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="80" height="80"/>
-  </a>
-</p>
+<sub>Learning, building, debugging, and improving — one system at a time.</sub>
