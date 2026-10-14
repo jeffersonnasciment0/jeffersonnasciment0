@@ -18,26 +18,23 @@ My interests include low-level programming, system reliability, inter-process co
 
 ## `$ ls ./featured-projects`
 
-### 🚦 Smart Traffic Light
-An adaptive traffic light prototype using an ESP32, with vehicle-flow counting and dynamic green-light timing.
+### 🚦 [Smart Traffic Light — ESP32](https://github.com/jeffersonnasciment0/semaforo-inteligente-esp32)
+
+An adaptive traffic light prototype that adjusts green-light duration based on vehicle-flow measurements.
 
 **Tech:** C++ · ESP32 · PlatformIO
 
-[View project](#)
+### 🔌 [Linux Inter-Process Communication](https://github.com/jeffersonnasciment0/socket_linux)
 
-### 🔌 Linux Inter-Process Communication
-A practical project exploring communication between processes in Linux.
+A practical project exploring inter-process communication and socket-based communication in Linux.
 
 **Tech:** C · Linux · Sockets
 
-[View project](#)
+### ⚙️ [C++ Device Manager](https://github.com/jeffersonnasciment0/device_manager)
 
-### ⚙️ C++ Device Manager
-A C++ project focused on device management and software design fundamentals.
+A C++ project focused on device management and object-oriented programming concepts.
 
-**Tech:** C++ 
-
-[View project](#)
+**Tech:** C++
 
 ## `$ cat tech-stack.txt`
 
