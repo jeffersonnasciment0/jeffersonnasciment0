@@ -23,7 +23,7 @@
 
 ### Who am i ? 🤔
 
-My name is Jefferson Santos do Nascimento, I'm 24 years old and I live in Eusébio/CE and I'm passionate about the world of programming! I am currently a beginner and work as an assistant engineer for embedded systems, however, I already have a lot of knowledge in this incredible world of development and I am always willing to learn about new technologies and knowledge.
+My name is Jefferson Santos do Nascimento, I'm 27 years old and I live in Eusébio/CE and I'm passionate about the world of programming! I am currently a beginner and work as an assistant engineer for embedded systems, however, I already have a lot of knowledge in this incredible world of development and I am always willing to learn about new technologies and knowledge.
 
 ---
 
