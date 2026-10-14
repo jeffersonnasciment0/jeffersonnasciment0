@@ -70,6 +70,3 @@ Currently expanding my knowledge of embedded development, software architecture,
 
 <sub>Learning, building, debugging, and improving — one system at a time.</sub>
 
----
-
-<sub>Learning, building, debugging, and improving — one system at a time.</sub>
