@@ -64,7 +64,7 @@ Currently expanding my knowledge of embedded development, software architecture,
 
 - 💼 LinkedIn: [Jefferson Santos](https://www.linkedin.com/in/jefferson-santos-do-nascimento)
 - 💻 GitHub: [@jeffersonnasciment0](https://github.com/jeffersonnasciment0)
-- 📧 Email: [your-email@example.com](mailto:jeffersonsantos.ti08@gmail.com)
+- 📧 Email: [jeffersonsantos.ti08@gmail.com](mailto:jeffersonsantos.ti08@gmail.com)
 
 ---
 
