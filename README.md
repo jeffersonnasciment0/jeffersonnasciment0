@@ -62,8 +62,13 @@ Currently expanding my knowledge of embedded development, software architecture,
 
 ## `$ connect --with-me`
 
-- LinkedIn: [Add LinkedIn URL]
-- Portfolio: [Add portfolio URL]
+- 💼 LinkedIn: [Jefferson Santos](https://www.linkedin.com/in/jefferson-santos-do-nascimento)
+- 💻 GitHub: [@jeffersonnasciment0](https://github.com/jeffersonnasciment0)
+- 📧 Email: [your-email@example.com](mailto:jeffersonsantos.ti08@gmail.com)
+
+---
+
+<sub>Learning, building, debugging, and improving — one system at a time.</sub>
 
 ---
 
